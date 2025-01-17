@@ -2,17 +2,16 @@
 
 Creation base [VuePress Theme Hope](https://theme-hope.vuejs.press/)
 
-## Install
+## How To Start
 
 > [!NOTE]
 > Require pnpm
 
-run
-```
-pnpm i
-```
-to install node modules, and
-```
-pnpm docs:dev
-```
-to start service
+1. Install nodejs modules
+   ```ps
+   pnpm i
+   ```
+2. Start vuepress localhost service
+   ```ps
+   pnpm docs:dev
+   ```
