@@ -1,8 +1,10 @@
 # Mango Vuepress Template
 
+Creation base [VuePress Theme Hope](https://theme-hope.vuejs.press/)
+
 ## Install
 
-> [!INFO]
+> [!NOTE]
 > Require pnpm
 
 run
