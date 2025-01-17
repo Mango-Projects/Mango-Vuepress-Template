@@ -9,11 +9,16 @@ export default defineUserConfig({
   base: "/",
   port: 8080,
 
-  // lang: "en-US",
-  // title: "Blog Demo",
-  // description: "A blog demo for vuepress-theme-hope",
+  lang: "en-US",
+  title: "Blog Demo",
+  description: "A blog demo for vuepress-theme-hope",
 
   locales: {
+    "/": {
+      lang: "en-US",
+      title: "Blog Demo",
+      description: "A blog demo for vuepress-theme-hope",
+    },
     "/en-us/": {
       lang: "en-US",
       title: "Blog Demo",
