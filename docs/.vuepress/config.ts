@@ -19,11 +19,6 @@ export default defineUserConfig({
       title: "Blog Demo",
       description: "A blog demo for vuepress-theme-hope",
     },
-    "/en-us/": {
-      lang: "en-US",
-      title: "Blog Demo",
-      description: "A blog demo for vuepress-theme-hope",
-    },
     "/zh-tw/": {
       lang: "zh-TW",
       title: "部落格範例",
