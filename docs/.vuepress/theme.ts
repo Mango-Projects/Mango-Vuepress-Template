@@ -163,14 +163,14 @@ export default hopeTheme({
       excerptLength: 100,
     },
 
-    // redirect: {
-    //   switchLocale: "modal",
-    //   defaultBehavior: "homepage",
-    //   defaultLocale: "/en-us/",
-    //   config: {
-    //     "/": "/en-us/",
-    //   },
-    // },
+    redirect: {
+      switchLocale: "modal",
+      defaultBehavior: "homepage",
+      defaultLocale: "/en-us/",
+      config: {
+        "/": "/en-us/",
+      },
+    },
 
     components: {
       components: ["Badge", "VPCard", "VidStack"],
