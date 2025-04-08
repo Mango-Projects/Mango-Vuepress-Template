@@ -1,3 +1,3 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const zhtwNavbar = navbar(["/zhtw/"]);
+export const zhcnNavbar = navbar(["/zh-cn/"]);

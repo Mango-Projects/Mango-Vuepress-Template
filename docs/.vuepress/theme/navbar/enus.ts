@@ -1,3 +1,3 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const enusNavbar = navbar(["/en-us/"]);
+export const enusNavbar = navbar(["/"]);
